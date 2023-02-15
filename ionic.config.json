@@ -1,0 +1,7 @@
+{
+  "name": "recicl-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
